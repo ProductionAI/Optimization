@@ -4,4 +4,4 @@
 3) Reinforcement
 4) Generative
 
-# Modeal Adaptation via Transfer Learning and Model Quantization
+# Model Adaptation via Transfer Learning and Model Quantization
