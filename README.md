@@ -1,0 +1,7 @@
+# Metrics methods across various model types
+1) Supervised
+2) Unsupervised
+3) Reinforcement
+4) Generative
+
+# Modeal Adaptation via Transfer Learning and Model Quantization
